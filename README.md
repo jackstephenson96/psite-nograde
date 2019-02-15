@@ -1,2 +1,2 @@
-# psite-nograde
-testing repo for psite in-between grading periods
+# psite
+Personal Site SI339
